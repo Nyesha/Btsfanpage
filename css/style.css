@@ -4,6 +4,7 @@ html {
 
 body {
     height: 100%;
+    background-color:#DFE9EB;
     
 }
 a {
@@ -17,3 +18,22 @@ a {
     width: 30px;
     margin: 15px;
 }
+.BTS {
+    width: 100%;
+    display: block;
+}
+
+.header{
+    text-align: center;
+    font-size: 100px;
+}
+
+.navbar{
+    text-align: center;
+    font-size: 45px;
+}
+
+.footer{
+    text-align:center;
+}
+
