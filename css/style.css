@@ -2,6 +2,10 @@ html {
     height: 100%;
 }
 
+h3{
+    text-align: center;
+}
+
 body {
     height: 100%;
     background-color:#DFE9EB;
@@ -9,6 +13,7 @@ body {
 }
 a {
     text-decoration: none;
+    color:#6EAFC1;
 }
 
 .main {
@@ -37,3 +42,13 @@ a {
     text-align:center;
 }
 
+.rightPane{
+   display:flex;
+   justify-content:center;
+   width: 100%;
+   
+}
+
+.leftPane {
+    margin: 60px;
+}
