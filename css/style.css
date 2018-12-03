@@ -21,6 +21,9 @@ h4{
     padding-right: 250px;
     padding-left: 250px;
 }
+h5{
+    text-align: center;
+}
 
 .main {
     height: 100%;
